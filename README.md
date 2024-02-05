@@ -8,4 +8,4 @@
 
 4. Which branch is considered the stable branch in GIT Flow?
 
-5. When is the "Hotfix" branch used in GIT Flow?
+5. When is the "Hotfix" branch used in GIT Flow
