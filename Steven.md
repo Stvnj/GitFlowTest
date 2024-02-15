@@ -8,4 +8,3 @@ Which branch is considered the stable branch in GIT Flow?
 hotfox branch
 When is the "Hotfix" branch used in GIT Flow?
  to quickly patch production releases
-   
