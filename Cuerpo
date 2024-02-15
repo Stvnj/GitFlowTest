@@ -1,0 +1,16 @@
+
+1.What is GIT Flow?
+  Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches. 
+  Gitflow has fallen in popularity in favor of trunk-based workflows, which are now considered best practices for modern continuous software development and DevOps practices.
+2.What are the three main branches in GIT Flow?
+  *Master/main Branch
+  *Development Branch
+  *Feature Branch
+3.In which branch are all finished features merged during the development phase?
+  *Development Branch
+4.Which branch is considered the stable branch in GIT Flow?
+  *Master Branch
+5.When is the "Hotfix" branch used in GIT Flow?
+  Hotfix branches: These are used to fix serious problems or errors in the live system. 
+  After fixes are implemented, they split off from the master branch and merge 
+  back into the develop and master branches.
